@@ -1,0 +1,6 @@
+[submodule "git-submodulos-submodulo-curso"]
+	path = git-submodulos-submodulo-curso
+	url = git@github.com:andreterceiro/git-submodulos-submodulo-curso.git
+[submodule "wp-content/plugins/git-submodulos-submodulo-curso"]
+	path = wp-content/plugins/git-submodulos-submodulo-curso
+	url = git@github.com:andreterceiro/git-submodulos-submodulo-curso.git
